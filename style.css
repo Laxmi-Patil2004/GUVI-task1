@@ -1,0 +1,47 @@
+body{
+    background: gray;
+}
+.fa-whatsapp{
+    color: springgreen;
+    font-size: 50px;
+    padding: 20px;
+}
+.fa-instagram{
+    color: blueviolet;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.fa-linkedin{
+    color:blue;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.fa-facebook{
+    color: blue;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.fa-snapchat{
+    color: yellow;
+    font-size: 50px;
+    padding: 20px;
+}
+.fa-face-smile{
+    color: yellow;
+    font-size: 50px;
+    padding: 20px;
+}
+.bx-copy-alt{
+    color:red;
+    font-size: 50px;
+    padding: 20px;
+}
+.bx-cycling{
+    color:blueviolet;
+    font-size: 50px;
+    padding: 20px;
+    
+}
